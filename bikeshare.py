@@ -21,7 +21,7 @@ def get_filters():
                 
             else:     
                 break
-    # get user input for month (all, january, february, ... , december)
+    # Please get user input for month (all, january, february, ... , december)
     months = ('january', 'february', 'march', 'april', 'may', 'june', 'july')
     while True:
             month = input('Please enter any one of the first 6 months or ALL for all 6 months:\n').lower()        
@@ -29,7 +29,7 @@ def get_filters():
                  print('Select the Correct Month')  
             else:
                 break
-    # get user input for day of week (all, monday, tuesday, ... sunday)    
+    # Please get user input for day of week (all, monday, tuesday, ... sunday)    
     days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     while True:
             day = input('Please select a day of the week:\n ').lower()        
