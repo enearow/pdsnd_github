@@ -4,14 +4,14 @@
 03/08/2021 and README file.
 
 ### Project Title
-Replace the Project Title
+Analysing Bikes Data
 
 ### Description
-Describe what your project is about and what it does
+This is a project that is on movement of Bike from various stations
 
 ### Files used
-Include the files used
+Chicago, New York City and Washington customers data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Stack overflow and towards data science site really assist me in this project.
 
